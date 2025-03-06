@@ -4,7 +4,6 @@ Welcome to my **15-Day Python Challenge!** 🎯 I am following a structured **Py
 
 ## 📅 Challenge Overview  
 ✅ **Daily learning & coding** based on the **15-day roadmap**  
-✅ **Practice questions & mini-projects**  
 ✅ **Tracking progress with daily commits**  
 
 ---
