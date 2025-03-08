@@ -15,7 +15,7 @@ Welcome to my **15-Day Python Challenge!** 🎯 I am following a structured **Py
 | Day  | Topic Covered | Status |
 |------|--------------|--------|
 | ✅ Day 1  | introduction and setup | ✔ Completed | 
-| ⏳ Day 2  | Variables & Data Types | Pending |
+| ✅ Day 2  | Variables & Data Types | ✔ Completed |
 | ⏳ Day 3  | control flow and loops| Pending |
 | ⏳ Day 4  | Functions | Pending |
 | ⏳ Day 5  | string manipulation | Pending |
